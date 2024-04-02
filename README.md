@@ -1,8 +1,3 @@
-# Please read!
-
-
-**For any problems running this specific bot:** [Discord Project Post](https://discord.com/channels/974519864045756446/1055336272543092757)
-
 **For general OpenAI API problems or questions:** [Discord API Discussions](https://discord.com/channels/974519864045756446/1037561178286739466)
 
 **For bugs in the template code:** create an Issue
